@@ -206,6 +206,13 @@ button:focus {
 /* --------- */
 /* Home section */
 /* --------- */
+
+/* Diğer CSS kodlarınız */
+
+/* Avatar resmi için mobil cihazlarda özel stil */
+
+
+/* Diğer CSS kodlarınız */
 .wave {
   animation-name: wave-animation;
   /* Refers to the name of your @keyframes element below */
@@ -322,12 +329,28 @@ button:focus {
 .myAvtar {
   justify-content: center !important;
   padding-top: 9em !important;
+  padding-bottom: 9em !important;
+  max-height: 450px !important;
+  width: "auto" !important;
+  display: flex;
+  align-items: center;
+  margin: 0 auto !important;
+  display: block !important;
+  padding-top: 10px !important;
 }
 
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
+    max-width: 300px !important;
+    height: "auto" !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto !important;
+    display: block !important;
+    padding-top: 10px !important;
   }
 }
 
@@ -650,6 +673,7 @@ button:focus {
   padding-right: 25px !important;
   height: auto !important;
 }
+
 .referance-card-image {
   border-radius: 10%;
   width: 220px;

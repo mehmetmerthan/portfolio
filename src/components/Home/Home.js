@@ -4,6 +4,7 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import avatar from "../../Assets/avatar.png";
+
 function Home() {
   return (
     <section>
@@ -29,12 +30,15 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} className="myAvtar" style={{ paddingBottom: 20 }}>
               <img
                 src={avatar}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px", borderRadius: "5%",marginLeft:150 }}
+                style={{
+                  maxHeight: "450px",
+                  borderRadius: "5%",
+                }}
               />
             </Col>
           </Row>
