@@ -10,8 +10,6 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mehmet Mert HAN </span>
             from <span className="purple"> Ankara, Türkiye.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
             <br />I <span className="purple">graduated</span> with a degree in
             <span className="purple"> Computer Engineering </span>from Kırıkkale
             University.
