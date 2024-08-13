@@ -33,7 +33,13 @@ function Projects() {
               ghLink="https://github.com/mehmetmerthan/metadya"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              title="AI based language practice app"
+              description="LangAI is an AI-powered language training mobile application that also offers chatbot support. I developed the app using the Gemini API and Expo, customizing the AI model to meet the project's specific needs. The app allows users to write a sentence in their native language and attempt to translate it into the target language. The AI provides feedback on errors, corrects the translation, or confirms that it’s accurate. Additionally, there's a chat mode where the AI interacts like a real chatbot, but with a key difference: it analyzes any mistakes the user makes during conversation and offers training on those errors. Chat history and personal data are stored on the device's memory."
+              ghLink="https://github.com/mehmetmerthan/LangAI"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               title="Full backend API"
@@ -54,13 +60,6 @@ function Projects() {
             <ProjectCard
               title="AR service for art"
               description=" It is a service designed for art, bringing together artists and collectors. We utilize augmented reality and gamification technologies, along with Flutter and Unity Engine, to create the system. You can explore virtual exhibition halls and choose to completely conceal your identity as an artist or collector if you wish."
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              title="Personalized AI"
-              description="I am continuing to research and develop a service where we can train diffusion models using our own photographs, particularly in the areas of txt2img and img2img. Here are some experimental results I have obtained."
             />
           </Col>
         </Row>
