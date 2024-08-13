@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82fc422f.css",
-    "main.js": "/static/js/main.1e5edaf4.js",
+    "main.js": "/static/js/main.daf44b97.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.6dcbca407054e952ebd7.png",
     "static/media/CV - Mehmet Mert HAN.pdf": "/static/media/CV - Mehmet Mert HAN.681b083b02944dc3ccf3.pdf",
@@ -21,11 +21,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.82fc422f.css.map": "/static/css/main.82fc422f.css.map",
-    "main.1e5edaf4.js.map": "/static/js/main.1e5edaf4.js.map",
+    "main.daf44b97.js.map": "/static/js/main.daf44b97.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82fc422f.css",
-    "static/js/main.1e5edaf4.js"
+    "static/js/main.daf44b97.js"
   ]
 }
