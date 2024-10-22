@@ -15,7 +15,7 @@ This is my personal website built with **React**, focusing on clean design and s
 - **CSS**: Custom styles for layout and animations.
 - **JavaScript**: Frontend logic and interactivity.
 
-## Live Demo
+## Live
 
 Check out the website here: [mehmetmerthan](https://mehmetmerthan.me)
 
