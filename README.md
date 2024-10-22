@@ -17,7 +17,7 @@ This is my personal website built with **React**, focusing on clean design and s
 
 ## Live Demo
 
-Check out the website here: [Your Website](https://mehmetmerthan.me)
+Check out the website here: [mehmetmerthan](https://mehmetmerthan.me)
 
 ## Contact
 
