@@ -5,9 +5,30 @@ import Particle from "../Particle";
 import ae from "./ReferanceImages/ae.png";
 import ea from "./ReferanceImages/ea.png";
 import ab from "./ReferanceImages/ab.png";
-import my from "./ReferanceImages/my.png";
-import mg from "./ReferanceImages/mg.png";
+import ca from "./ReferanceImages/ca.png";
+import bg from "./ReferanceImages/bg.png";
 const references = [
+  {
+    name: "Bariscan Gungor",
+    email: "bagungor@ku.edu.tr",
+    phone: "(+90) 2124039611",
+    description:
+      "Associate Professor in the Department of Computer Engineering at Koç University, advisor and jury at İTÜ çekirdek, Co-founder at orginium, Technologist.",
+    image: bg,
+  },
+  {
+    name: "Codjo Ahouandjinou",
+    email: "codjoa@gmail.com",
+    description: "Key Account Executive at Google",
+    image: ca,
+  },
+  {
+    name: " Dr. Ali BALCI",
+    email: "dralibalci@gmail.com",
+    phone: " (+90) 505132886 ",
+    description: "  General Manager at Digitest.",
+    image: ab,
+  },
   {
     name: "Assoc. Prof. Atilla ERGÜZEN ",
     email: "atilla@kku.edu.tr",
@@ -22,28 +43,6 @@ const references = [
     description:
       " Associate Professor in the Department of Computer Engineering at Kırıkkale University.",
     image: ea,
-  },
-  {
-    name: " Dr. Ali BALCI",
-    email: "dralibalci@gmail.com",
-    phone: " (+90) 505132886 ",
-    description: "  General Manager at Digitest.",
-    image: ab,
-  },
-  {
-    name: "Assoc. Prof. Mete YAĞANOĞLU",
-    email: "yaganoglu@atauni.edu.tr",
-    phone: " (+90) 5354452400",
-    description:
-      " Associate Professor in the Department of Computer Engineering at Atatürk University.",
-    image: my,
-  },
-  {
-    name: "Murat GÜNDOĞAN",
-    email: "gundoganmurat2@gmail.com",
-    phone: "  (+90) 5378457581",
-    description: "  Senior Computer Engineer at the Ministry of Finance.",
-    image: mg,
   },
 ];
 
